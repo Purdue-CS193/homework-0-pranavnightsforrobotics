@@ -1,4 +1,4 @@
-# Pranav Neti teddy Bear
+# Pranav Neti
 ## Header 2
 ### Header 3
 
