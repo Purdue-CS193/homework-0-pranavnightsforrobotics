@@ -1,3 +1,14 @@
+# Pranav Neti teddy Bear
+## Header 2
+### Header 3
+
+- I like teddy bears
+- Teddy rosevelt is my idol role model and dad
+
+1. Do you like teddy bears?
+2. freddy faz bear?
+3. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
