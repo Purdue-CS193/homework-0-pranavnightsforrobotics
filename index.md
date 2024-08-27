@@ -1,13 +1,7 @@
-# Pranav Neti
-## Header 2
-### Header 3
+# Pranav Neti's First CS 193 Homework
 
-- I like teddy bears
-- Teddy rosevelt is my idol role model and dad
-
-1. Do you like teddy bears?
-2. freddy faz bear?
-3. 
+- I like the ice breakers
+- I like the examples and demonstrations on the board
 
 ## Welcome to GitHub Pages
 
